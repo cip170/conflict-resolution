@@ -1,2 +1,3 @@
 # conflict-resolution
-class activity for merge conflicts
+ ## This is a subheading created locally
+ class activity for merge conflicts
